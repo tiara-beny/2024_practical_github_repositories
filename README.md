@@ -1,4 +1,4 @@
-# 2024 - Assignment 5 - University-of-Adelaide-Bx-Masters / BIOTECH-7005-BIOINF-3000
+# 2024 - Practical - GitHub repositories
 
 ## Branches
 
